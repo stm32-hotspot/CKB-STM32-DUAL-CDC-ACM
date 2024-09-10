@@ -1,0 +1,60 @@
+C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\F7_CDC\BrowseInfo\Core_13247989168731456611.dir\main.pbi: \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\Core\Src\main.c \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Core\Inc\main.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Core\Inc\stm32f7xx_hal_conf.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_rcc.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_def.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f767xx.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Include\core_cm7.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ysizet.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_rcc_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_exti.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_gpio.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_gpio_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_dma.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_dma_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_cortex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_flash.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_flash_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_i2c.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_i2c_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_pwr.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_pwr_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_tim.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_tim_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_uart.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_uart_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_pcd.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_ll_usb.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_pcd_ex.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\USB_DEVICE\App\usb_device.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_def.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\USB_DEVICE\Target\usbd_conf.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdio.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdlib.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\string.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product_string.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Class\CompositeBuilder\Inc\usbd_composite_builder.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_ioreq.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_def.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_core.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_ioreq.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_ctlreq.h \
+  C:\ST\80\CKB-STM32-DUAL-CDC-ACM\EWARM\..\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc\usbd_cdc.h
