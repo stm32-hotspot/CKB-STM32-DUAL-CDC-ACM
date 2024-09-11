@@ -1,4 +1,4 @@
- # F7 DUAL CDC USB Device Composite Application on STM32F7
+ # DUAL CDC USB Device Composite Application on STM32F7
 
 In this repository : 
 
